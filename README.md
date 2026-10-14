@@ -28,7 +28,7 @@ You do not need to compile the code to try out the application.
 
 1. Go to the release section of this repository.
 ​2. Download the latest `.zip` file containing the application.
-2. Extract the folder and run the `.exe` file.
+3. Extract the folder and run the `.exe` file.
 
 *(Note: The executable has been packaged with all necessary Qt dependencies using `windeployqt`, so it is ready to run right out of the box).*
 
