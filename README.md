@@ -2,6 +2,9 @@ ATRACADORE CINEMA 🎬
 
 A desktop cinema browsing and ticketing application built with C++ and the Qt framework.
 
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/21301fed-8380-4b53-b0c2-97ae49cf13eb" />
+
+
 📖 About the Project
 
 I created ATRACADORE CINEMA as a personal project to practice building both front-end user interfaces and back-end logic in C++. My main motivation was to step away from basic exercises and build a complete, practical, and useful application from scratch.
@@ -13,6 +16,10 @@ The application currently supports the following functional features:
 * **Movie Catalogs:** Browse dedicated "Now Playing" and "Coming Soon" sections.
 * **Detailed Information:** View movie synopses, promotional banners, cast lists, and producer details.
 * **Personal Watchlist:** Save specific movies to a dedicated watchlist to keep track of what you want to see.
+
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/b9def4e5-5a4c-4859-a8a8-8aa2b7340c71" />
+
+  
 * **Showtime & Seat Selection:** Choose from multiple showtimes (3pm, 6pm, 8pm, 10pm) and select specific seats using an interactive visual theater grid.
 * **Ticket Purchasing & Invoicing:** Simulate a ticket purchase (fixed at 500 DOP). Upon purchase, the app automatically generates a detailed `.txt` receipt and saves it directly to your computer's Desktop.
 
